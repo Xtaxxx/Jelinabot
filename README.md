@@ -4,7 +4,7 @@ logging_config.py：日志配置
 
 llm.py：LLM 和嵌入模型的初始化
 
-storage.py：存储上下文的初始化
+emb_database：向量数据库
 
 support_assistant.py：支持助手类的定义
 
