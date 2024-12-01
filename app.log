@@ -1,0 +1,4 @@
+2024-11-29 15:46:36,192 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-11-29 15:46:37,153 - INFO - Load pretrained SentenceTransformer: /home/bear/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a
+2024-11-29 15:46:37,206 - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-29 15:46:37,206 - INFO - Loading all indices.

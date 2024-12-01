@@ -1,0 +1,27 @@
+2024-11-29 17:09:27,392 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-11-29 17:09:28,502 - INFO - Load pretrained SentenceTransformer: /home/bear/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a
+2024-11-29 17:09:28,558 - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-29 17:10:12,736 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-11-29 17:10:13,823 - INFO - Load pretrained SentenceTransformer: /home/bear/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a
+2024-11-29 17:10:13,879 - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-29 17:10:40,728 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-11-29 17:10:41,801 - INFO - Load pretrained SentenceTransformer: /home/bear/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a
+2024-11-29 17:10:41,854 - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-29 17:10:41,855 - INFO - Loading all indices.
+2024-11-29 17:11:43,788 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-11-29 17:11:44,830 - INFO - Load pretrained SentenceTransformer: /home/bear/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a
+2024-11-29 17:11:44,887 - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-29 17:11:44,887 - INFO - Loading all indices.
+2024-11-29 17:12:11,266 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-11-29 17:12:12,386 - INFO - Load pretrained SentenceTransformer: /home/bear/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a
+2024-11-29 17:12:12,441 - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-29 17:12:13,620 - INFO - Loading all indices.
+2024-11-29 17:16:36,361 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-11-29 17:16:37,319 - INFO - Load pretrained SentenceTransformer: /home/bear/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a
+2024-11-29 17:16:37,371 - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-29 17:16:38,517 - INFO - Loading all indices.
+2024-11-29 17:17:10,006 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-11-29 17:17:10,834 - WARNING - Some parameters are on the meta device because they were offloaded to the cpu.
+2024-11-29 17:17:10,911 - INFO - Load pretrained SentenceTransformer: /home/bear/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a
+2024-11-29 17:17:10,942 - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-29 17:17:12,090 - INFO - Loading all indices.
